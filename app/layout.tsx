@@ -10,7 +10,7 @@ const comicNeue = Comic_Neue({
 })
 
 export const metadata: Metadata = {
-  title: 'Umay Çiftçi - Bana Hediye Almak İster Misin? ���',
+  title: 'Umay Çiftçi - Bana Hediye Almak İster Misin? :)',
   description: 'Merhaba! Ben Umay Çiftçi! Henüz doğmadım ama web sitemi yaptım! Bana ve sokak hayvanlarına hediye almak ister misin?',
   keywords: 'Umay Çiftçi, bebek, hediye, bağış, Haytap, hayvan hakları, baby website',
   authors: [{ name: 'Baby Umay (ve biraz da anne-baba)' }],
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     icon: '/favicon.ico',
   },
   openGraph: {
-    title: 'Umay Çiftçi - Baby\'s First Website! ���',
+    title: 'Umay Çiftçi - Baby\'s First Website! :)',
     description: 'Daha doğmadan web sitesi yapan bebek Umay\'ın eğlenceli dünyası!',
     url: 'https://umayciftci.com',
     siteName: 'umayciftci.com',
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Umay Çiftçi - Bana Hediye Almak İster Misin? ���',
+    title: 'Umay Çiftçi - Bana Hediye Almak İster Misin? :)',
     description: 'Henüz doğmadım ama web sitemi yaptım!',
     images: ['https://umayciftci.com/og-image.png'],
   },

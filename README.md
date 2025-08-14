@@ -9,7 +9,7 @@ Merhaba! Ben Umay Çiftçi! Henüz doğmadım ama web sitemi yaptım!
 - Super cute baby design!
 
 ## 🚀 Tech Stack
-- Next.js 14
+- Next.js 15
 - TypeScript
 - Tailwind CSS
 - Vercel Deployment
